@@ -1,0 +1,115 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Ja'far",
+      "group": "N45",
+      "sur": "Jabborov"
+    },
+    {
+      "id": "2",
+      "name": "Bobur",
+      "group": "N44",
+      "sur": "Jabborov"
+    },
+    {
+      "id": "3",
+      "name": "Ramziddin",
+      "group": "N44",
+      "sur": "Jabborov"
+    },
+    {
+      "id": "4",
+      "name": "Harly",
+      "group": "N45",
+      "sur": "Quin",
+      "level": "junior"
+    },
+    {
+      "id": "5",
+      "name": "Stiv",
+      "group": "N45",
+      "sur": "Jobs",
+      "level": "senior"
+    },
+    {
+      "id": "6",
+      "name": "Harry",
+      "group": "N45",
+      "sur": "Potar",
+      "level": "junior"
+    },
+    {
+      "id": "7",
+      "name": "Jon",
+      "group": "N45",
+      "sur": "Smit",
+      "level": "middle"
+    },
+    {
+      "id": "8",
+      "name": "Artemis",
+      "group": "N45",
+      "sur": "Faul",
+      "level": "senior"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "2",
+      "name": "Ja'far",
+      "group": "N45",
+      "sur": "Jabborov",
+      "level": "middle"
+    },
+    {
+      "id": "3",
+      "name": "Bobur",
+      "group": "N45",
+      "sur": "Jabborov",
+      "level": "junior"
+    },
+    {
+      "id": "4",
+      "name": "Ramziddin",
+      "group": "N45",
+      "sur": "Jabborov",
+      "level": "junior"
+    },
+    {
+      "id": "5",
+      "name": "Jon",
+      "group": "N45",
+      "sur": "Smit",
+      "level": "middle"
+    },
+    {
+      "id": "6",
+      "name": "Harry",
+      "group": "N45",
+      "sur": "Potar",
+      "level": "junior"
+    },
+    {
+      "id": "7",
+      "name": "Stiv",
+      "group": "N45",
+      "sur": "Jobs",
+      "level": "senior"
+    },
+    {
+      "id": "8",
+      "name": "Harly",
+      "group": "N45",
+      "sur": "Quin",
+      "level": "junior"
+    },
+    {
+      "id": "9",
+      "name": "Artemis",
+      "group": "N45",
+      "sur": "Faul",
+      "level": "senior"
+    }
+  ]
+}
